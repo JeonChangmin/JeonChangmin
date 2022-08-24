@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a PhD student at the [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/) in [Seoul National University](https://www.snu.ac.kr/).
+
 [![Changmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonChangMin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
