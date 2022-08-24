@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a PhD student at the [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/) in [Seoul National University](https://www.snu.ac.kr/).
+I am a Ph.D. student at the [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/).
 My research interests lie in enhancing XR systems with deep learning.
-Recently, I have been looking at Scene Understanding technology using Deep Learning.
+Recently, I have been looking at scene understanding techniques based on deep learning.
 
 [![Changmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonChangMin)](https://github.com/anuraghazra/github-readme-stats)
 
