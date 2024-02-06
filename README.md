@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. student at the [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/).
+I am a Ph.D. student at the [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/) at [Seoul National University](https://en.snu.ac.kr/index.html).
 My research interests lie in enhancing XR systems with deep learning.
 Recently, I have been looking at scene understanding techniques based on deep learning.
 
